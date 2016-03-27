@@ -1,2 +1,0 @@
-# DLA
-Diffusion Limited Aggregation
